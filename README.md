@@ -17,5 +17,5 @@ This project is designed to match and find similar invoices based on their conte
 ### Setup
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/allforoneall/Coding-Assignment-Document-Similarity-Matching
    cd invoice_similarity
